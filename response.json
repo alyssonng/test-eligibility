@@ -1,0 +1,2898 @@
+{
+    "eligibilites": [
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "1db1ccb9-fc70-4d58-91c9-3e58937751b1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 82,
+                "initials": "BBB",
+                "sex": "0",
+                "birthDate": "1940-02-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "preFpicAccepted",
+            "invitationCode": "AtYg",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "270eb63d-2867-47c5-af51-e1ef82c3a681",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "preFpicAccepted",
+            "invitationCode": "Sqsw",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "6bc808bd-ae6f-4512-8339-cc2aedb5b706",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAE",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "JY2j",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "630e340b-a5b1-4ead-8c15-0b550900ddf3",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "NATA",
+                "sex": "0",
+                "birthDate": "1979-08-03"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "88f11ff9-b15e-4fca-b22a-7e2e4a13c563",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "BOBBA",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "e2d8ad8f-8025-43a5-9420-1633231a972c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "VAANG",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "2e9f8128-4c0e-4cbb-928d-08588cd5e34d",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "FFFF",
+                "sex": "1",
+                "birthDate": "1999-08-27"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "df736741-c7a1-4e64-bd48-86848080ecc8",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ACSV",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "d3f91c45-2dec-49cd-b29f-ceec77f0293c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ACVX",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "6a9a207b-c2c6-4618-a9db-f7d34626f1b2",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ACAA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "37d466cb-db4f-4a08-b977-6982aeed1cba",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "SSS",
+                "sex": "0",
+                "birthDate": "1995-09-25"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "3f8ecc41-9917-4290-8188-91b0ade9cca9",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "AAAAAAAA",
+                "sex": "0",
+                "birthDate": "1980-02-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "f3ea53a0-0de1-4f23-ae08-7766cd3dfc75",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "DADSDSA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "9b18cb39-add8-4317-a2e7-5b02b21922d6",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ABC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "3393836a-f286-46f0-bf49-dc0602467753",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "a9417736-8abe-46cc-ab6e-314f66f06f03",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAB",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "ba9c4135-a89a-4fe4-8491-00bd53b19726",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "791ff26e-f6a4-40f7-8008-6e0ca8458e53",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 32,
+                "initials": "AAD",
+                "sex": "0",
+                "birthDate": "1990-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "49769ea0-a402-44e7-847c-666ee55333cb",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 32,
+                "initials": "AAE",
+                "sex": "0",
+                "birthDate": "1990-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "2a0ce165-68b1-4499-ace6-550fcc3c42a6",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAF",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "31be4eb1-02ae-4b5f-a4e4-42ecbf7c206c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAG",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "feb5d631-4767-46bd-9436-b56ce086f042",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 19,
+                "initials": "AAH",
+                "sex": "1",
+                "birthDate": "2003-02-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "1f1ad9ef-64d0-4735-afd1-d40661207f51",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "AAI",
+                "sex": "0",
+                "birthDate": "2001-02-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "45475f47-f45d-460b-881a-bfb3845613c9",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "GAUGAU",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "c1dd2b1a-fdf2-4acf-8078-240f038b56f8",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "IODN",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "4ca79f06-7f9c-4f86-a00c-fa5613ad250b",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "OOSS",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "36db1680-064f-441a-914a-427696793df4",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "BOMM",
+                "sex": "0",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "N5Fc",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "dd00e0bc-20f3-476b-aa40-5163e456f3ff",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "TRTT",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "Baj5",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "6ddccc80-a161-41bb-b7e0-54c8d7f880f7",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ERRE",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "HFdg",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "3a48f5c9-230c-4b8e-a214-3cc57da5acf1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "TTRW",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "bsCk",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "bd3e637b-2f7b-438c-a7b7-0080f15b4a35",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "VVVCCC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "fxwk",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "8782ed50-d1db-42e2-b502-10394583b0eb",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "SSSS",
+                "sex": "0",
+                "birthDate": "2000-12-20"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "63eE",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "0b0b64e0-04d5-4f41-83d7-73afed9e2e67",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "CABABA",
+                "sex": "0",
+                "birthDate": "2000-02-10"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": false,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "4ad80796-8ac1-4b10-88de-978e5b028071",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "DUDU",
+                "sex": "0",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "preFpicAccepted",
+            "invitationCode": "bmvo",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "5ecd182b-e5f8-4f33-aa2a-55cfb4ffb458",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAB",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "preFpicAccepted",
+            "invitationCode": "vc4q",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "b674d9cb-6c5c-417c-9ba9-c143bf022dd1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "FEA",
+                "sex": "0",
+                "birthDate": "2000-11-22"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "QvcL",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "a2a095e3-03e7-4e5f-b127-1d203c4698b0",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ANGAA",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "95995f07-fc5f-423a-b59a-697f8f55900e",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ABCSDSD",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "35139655-b9e4-4ee3-809d-ad202e4af013",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AVSCS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "rUVP",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "64d74b44-84a8-48b8-92d5-fe86ca5d0d89",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 31,
+                "initials": "SSSS",
+                "sex": "0",
+                "birthDate": "1990-09-25"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "Fnr4",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "2fca58f8-f829-455d-9029-de96f291a5be",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 33,
+                "initials": "CBA",
+                "sex": "1",
+                "birthDate": "1988-11-11"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "d22ecb2a-8279-46f9-8d1b-40a17254c9de",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAK",
+                "sex": "1",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "3fa37af4-cde2-4ef8-9a6d-cb4cf9b934d0",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 19,
+                "initials": "AAL",
+                "sex": "0",
+                "birthDate": "2003-02-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "08f81ce9-ce9a-4b72-b8fd-1b9c4427ce0f",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 18,
+                "initials": "AAM",
+                "sex": "0",
+                "birthDate": "2004-02-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "7cde427a-1c6c-4f15-a7c3-027af0032f4f",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 16,
+                "initials": "AAO",
+                "sex": "0",
+                "birthDate": "2005-05-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": false
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "3ed61b1d-d922-4d72-95df-ca6f42aefda8",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 19,
+                "initials": "VVSS",
+                "sex": "0",
+                "birthDate": "2003-02-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "346ac926-1a3a-4bbb-a3ee-8025b9ed034c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 32,
+                "initials": "YYYY",
+                "sex": "0",
+                "birthDate": "1989-11-15"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "320d2c0e-3572-47a8-bbe1-37c36cbd6c13",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ECR",
+                "sex": "0",
+                "birthDate": "1995-12-31"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "5e279465-563a-4cd7-972c-1d3c50f58c37",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 43,
+                "initials": "JUR",
+                "sex": "0",
+                "birthDate": "1978-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "SPFC",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "75394436-68c3-4033-bed4-3f5ad0d0c24a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "JUCA",
+                "sex": "1",
+                "birthDate": "1980-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "c9fd63b2-0ae7-4a31-8c38-3e2061ce08c3",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 2,
+                "initials": "ZZZ",
+                "sex": "1",
+                "birthDate": "2020-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "5110bb2f-c03b-48b6-afe9-a06186a9c649",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "BBB",
+                "sex": "0",
+                "birthDate": "2000-10-10"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "c75ceeab-1ae3-4d87-8efb-cef3dbb97445",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "CCC",
+                "sex": "0",
+                "birthDate": "2000-10-20"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "aacf8333-47fc-47dc-afea-a92440b0c49d",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "YYY",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "21c7692c-5ebb-4f9a-b28f-9a2e145074d5",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 2,
+                "initials": "GAGA",
+                "sex": "1",
+                "birthDate": "2019-10-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": false,
+                "ofLegalAge": false
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "8f784caa-d28e-4b60-b274-9fab746debf0",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 45,
+                "initials": "CERTO",
+                "sex": "0",
+                "birthDate": "1976-10-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "a87f7fd3-c45f-4e0d-a4c5-843a25cdde1a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 17,
+                "initials": "AAZ",
+                "sex": "0",
+                "birthDate": "2005-01-27"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": false
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "f245cf44-1092-4b6d-9291-b705a430c635",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 34,
+                "initials": "ZZB",
+                "sex": "1",
+                "birthDate": "1987-07-04"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "40e30384-fce2-4d22-b885-178169dddd47",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "TESTE",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "e0382e23-059c-4c97-b77c-abd91e849925",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ECRR",
+                "sex": "0",
+                "birthDate": "1995-12-31"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "c68a0017-b425-4df6-9977-d4ecf7bd8a6e",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 28,
+                "initials": "ECCR",
+                "sex": "0",
+                "birthDate": "1993-10-31"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "9bdd44e7-08f0-4a33-9d87-c7fb45ab902a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 24,
+                "initials": "PCCS",
+                "sex": "1",
+                "birthDate": "1997-10-15"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "7e1e301e-2f9d-4ec2-9669-5e5cd00a7df0",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "AANG",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "5f0670c9-8222-48ec-9fda-c756ba64d3df",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 41,
+                "initials": "TESTE",
+                "sex": "0",
+                "birthDate": "1980-10-10"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "62afaffc-c7df-4e8c-abd4-eb5691e91060",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "HUR",
+                "sex": "1",
+                "birthDate": "2000-02-10"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "b1dceb45-a08f-4b1c-b6b5-9f56feb64c43",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "CANA",
+                "sex": "1",
+                "birthDate": "2000-08-10"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "5580664a-699c-4b10-98fe-fba792369aa1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "VACAS",
+                "sex": "0",
+                "birthDate": "1980-04-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "tH9c",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "da03451d-a6ec-496e-93ba-7d152a3e7b0d",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "FAFAFA",
+                "sex": "0",
+                "birthDate": "2000-10-08"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "dvAw",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "9766798c-6e28-4094-9350-e88d1ad794b6",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 52,
+                "initials": "HAHA",
+                "sex": "0",
+                "birthDate": "1970-04-07"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "C1yC",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "470b2aa3-def4-4875-81ce-05bc982783f5",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "CVC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "u1ZN",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "291a253b-6f4c-46f6-b55a-b70a4dcf7cf1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "HUHU",
+                "sex": "1",
+                "birthDate": "2000-02-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "f6eef42a-27e6-4ba5-b64a-b0c2b5500fe3",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "DSDS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "1bf98c4b-3447-482d-ab3d-1c25723ef25a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AVVC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "84d751fa-b160-4020-839f-41c10a4bb3a1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "c424cc23-3bf2-4507-976e-6e3944e6df0a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "FEAR",
+                "sex": "0",
+                "birthDate": "2000-10-19"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "c3e61230-3dc8-4a88-8496-cdaa282041cd",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAJ",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "f10a6a84-94e9-4f9c-a6b2-b1fe04654c1f",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAVC",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "3c0becb3-c703-4cac-8f0c-350d3d0fff0a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "ABA",
+                "sex": "0",
+                "birthDate": "2001-02-21"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "f4d2b698-d81d-4b6b-9010-deda186e358f",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ABC",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "92f94271-05c9-4c07-8d48-bc71d38fbb69",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "EDD",
+                "sex": "0",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "011223cf-f68e-451e-a0a7-d35a084bfdf3",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "FFF",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "5f2fc22e-11eb-4449-82d3-4cc7a4182094",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AHJK",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "25ac6bda-eebf-406f-b8f9-9fff1a3e5ded",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "YYYY",
+                "sex": "0",
+                "birthDate": "2000-11-25"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "403697b0-ae72-49aa-b121-52b437266be5",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "PARCIAL",
+                "sex": "0",
+                "birthDate": "1980-02-01"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "ffd91604-9354-47ab-94d5-b6c1f5f73107",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "MMN",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "1cd8070c-9465-4b7f-a7a4-700fac94cc2c",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 2,
+                "initials": "ZZZZYYYY",
+                "sex": "0",
+                "birthDate": "2020-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "67891e64-1185-47eb-832e-a00c4fe25888",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ACSVSS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "9dbf7f47-f05d-447d-90c5-f5481c1bf418",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "DADASDS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "d42c6dfa-5bd0-4d01-9c68-643a971f4f0a",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ASDSA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "ee89f455-2706-4029-86a5-8d2cab73e720",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 23,
+                "initials": "ARRT",
+                "sex": "1",
+                "birthDate": "1998-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": false,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "960d14ed-170c-424c-97b6-7d65127f68a1",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "BBBCADS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "zdJ4",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "a6f4c937-badb-41a9-b516-7d0cf3000fee",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 102,
+                "initials": "CACACA",
+                "sex": "1",
+                "birthDate": "1920-04-04"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "72b9437d-d0dc-4a48-b024-876ea894264e",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "MMMNNN",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "54b8b491-a99e-4f3b-821b-bfb3fb1a6999",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "AAAAAAAD",
+                "sex": "1",
+                "birthDate": "1980-03-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "0d983076-8982-4fc5-b42c-f56de2258426",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AAD",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "5cuN",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "fc03ea62-91c9-46bf-9a1e-8948857e428b",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 2,
+                "initials": "ZZZYYXX",
+                "sex": "0",
+                "birthDate": "2020-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "0edcd9db-045f-4177-9e50-8f1785a55de8",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "NOT",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "df92637e-9258-4470-ab44-d50169ce62d8",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "DDFGGD",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "Y5BH",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "e82df653-db38-4672-a7b3-93f8019374e5",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ADSADSA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "KmZ8",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "e15449eb-fdf2-4e53-a5bc-f996a50d70ef",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "SSS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": false,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "faab9a33-35a5-4ba1-ae1f-df4b8aec62ed",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 23,
+                "initials": "RRR",
+                "sex": "1",
+                "birthDate": "1999-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "LuhH",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "eef735f6-635b-40dc-bda6-9b0fdb1973de",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "MMMAS",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "b646ff52-bec5-4f6e-b5ac-418120f99d1c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "BBBVVV",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "cdfcd0c2-6fee-4390-8caa-afdd65685c84",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 46,
+                "initials": "ZZZZ",
+                "sex": "1",
+                "birthDate": "1975-07-15"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "0d14c204-b805-4f01-9d44-d8d4f6d1fb8b",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "TTT",
+                "sex": "1",
+                "birthDate": "1999-12-24"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": false,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "a3ed5f30-472c-4673-8875-f8c72ea2c9fb",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ZAP",
+                "sex": "1",
+                "birthDate": "1999-12-12"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinRefused",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "0b81f1ae-7872-4cd3-9670-3a59f53b639e",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 14,
+                "initials": "AAAAVE",
+                "sex": "0",
+                "birthDate": "2008-04-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": false
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "aeeddf44-4349-4fa5-927b-de7969a6f317",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 62,
+                "initials": "CACACACA",
+                "sex": "0",
+                "birthDate": "1960-03-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "GeYi",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "c6543b70-6126-4494-aa2b-21ba2be635ab",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 62,
+                "initials": "ANANA",
+                "sex": "0",
+                "birthDate": "1960-03-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "8Jkm",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "4e197854-5a2e-4096-aee1-7a862cad160d",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 62,
+                "initials": "AABBCC",
+                "sex": "0",
+                "birthDate": "1960-03-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "invitationCode": "mmbf",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "485bfcec-1ca1-4223-b560-1013b5e63e02",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "ATAB",
+                "sex": "0",
+                "birthDate": "1979-08-03"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "33ad7c24-5b98-479b-bfde-473e3d827161",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "TRDO",
+                "sex": "1",
+                "birthDate": "1995-12-31"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "1073cbda-b85c-4310-acde-7c0a06514cd7",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 52,
+                "initials": "AAAAAAAC",
+                "sex": "1",
+                "birthDate": "1970-04-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "826b651f-6466-4130-9b88-a29239fcdb89",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "YYY",
+                "sex": "0",
+                "birthDate": "1999-12-25"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "invitationCodeUsed",
+            "invitationCode": "gG3o",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "824c6e72-5e24-4cc4-9ae2-c3677e78156b",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "ASVCV",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "4fe7c7d7-f799-4321-9f99-215ccaf0e9fa",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "AVSCA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "c4583f75-6221-41c8-8050-74a088b4cc6e",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "VACAA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "5c83b9cd-d80a-485d-b963-ae7af234bca8",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 71,
+                "initials": "AAAAAAAB",
+                "sex": "1",
+                "birthDate": "1950-06-04"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "joinAccepted",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "d3949b06-51bf-4b2e-a72d-8e4cef963bb6",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 21,
+                "initials": "ADFGH",
+                "sex": "0",
+                "birthDate": "2001-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "b439fb9c-50f9-47fb-8576-9551f289ea0a",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 2,
+                "initials": "XXXCCVV",
+                "sex": "0",
+                "birthDate": "2020-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "ba418d08-d13a-4d69-a6ce-63f79d11fe0b",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 65,
+                "initials": "PART",
+                "sex": "0",
+                "birthDate": "1956-08-07"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "497ca8ab-7f6b-4387-a61b-490802b9bbac",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "ANG",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "1cc6dbde-571e-476c-877f-455ea04822cf",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 76,
+                "initials": "PPA",
+                "sex": "1",
+                "birthDate": "1945-10-16"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "8f4cb32e-635f-455c-b571-ff989f21071b",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 32,
+                "initials": "RSA",
+                "sex": "1",
+                "birthDate": "1989-06-06"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "174f2f1f-96a6-45ac-9f40-1c5f4630cd3b",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "HHH",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "a0cb30e7-ac1d-4eb9-bbd5-b5d82f25b75b",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 26,
+                "initials": "XANG",
+                "sex": "0",
+                "birthDate": "1995-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "f130deaf-d84d-4e5a-89d4-d24ce75da314",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 46,
+                "initials": "MUR",
+                "sex": "1",
+                "birthDate": "1975-10-16"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": true,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "notEligible",
+            "patientEligibilityUid": "afb9d2e3-6df3-4a53-8027-570fcd44977c",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 43,
+                "initials": "LIZ",
+                "sex": "1",
+                "birthDate": "1978-06-11"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": true,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "9e371d26-37cc-44e4-aa72-0bb69dbce223",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 42,
+                "initials": "PUDIM",
+                "sex": "0",
+                "birthDate": "1979-08-03"
+            },
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "pending",
+            "patientEligibilityUid": "f39036f2-0cab-4905-8543-cdfd77d84c63",
+            "fillStatus": "partial",
+            "patient": {
+                "ageInYears": 22,
+                "initials": "SSA",
+                "sex": "0",
+                "birthDate": "2000-01-01"
+            },
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "9a49b3f8-b2c7-400c-9996-03f85efc2231",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 37,
+                "initials": "CARLO",
+                "sex": "0",
+                "birthDate": "1985-01-02"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "Ag4a",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "05f8b2a3-2f45-4620-ba89-82a7c3fc50cb",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 76,
+                "initials": "ATUR",
+                "sex": "0",
+                "birthDate": "1945-08-23"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "invitationCode": "HUR4",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": false
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "21e1248c-e3fa-4e6f-af34-e789e74ed111",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 36,
+                "initials": "LIG",
+                "sex": "1",
+                "birthDate": "1985-12-06"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": false,
+                "hasPad": false,
+                "haveStroke": true
+            }
+        },
+        {
+            "eligibilityStatus": "eligible",
+            "patientEligibilityUid": "36399c6a-bae5-4b2c-aa41-7c2a9a628a55",
+            "fillStatus": "finished",
+            "patient": {
+                "ageInYears": 46,
+                "initials": "AFRA",
+                "sex": "0",
+                "birthDate": "1975-08-10"
+            },
+            "operationalConditions": {
+                "participateAnotherTrial": false,
+                "haveRecentCardiovascularEvent": false,
+                "hasMobileDeviceAccess": true,
+                "ofLegalAge": true
+            },
+            "joinStatus": "pending",
+            "clinicalConditions": {
+                "hasCad": true,
+                "hasPad": true,
+                "haveStroke": true
+            }
+        }
+    ]
+}
